@@ -1,0 +1,4 @@
+{
+  "retention_days": 90,
+  "sync_interval_sec": 3600
+}
